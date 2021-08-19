@@ -1,0 +1,11 @@
+{
+  "name": "pfdg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lookingfogroup/games.git",
+  "author": "Penn Porterfield <penn@wintreetz.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
+}
